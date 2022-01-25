@@ -1,23 +1,23 @@
-# Otoclix Recruitment Challenge
+# Otoklix Recruitment Challenge
 ##  Simple API to manage blog posts of blog
-live demo available at https://otoclix-challenge.herokuapp.com/posts
+live demo available at https://otoklix-challenge.herokuapp.com/posts
 
 #### GET : Get Posts
 
 ```
-https://otoclix-challenge.herokuapp.com/posts
+https://otoklix-challenge.herokuapp.com/posts
 ```
 
 #### GET : Show Post
 
 ```
-https://otoclix-challenge.herokuapp.com/posts/<ID_POST>
+https://otoklix-challenge.herokuapp.com/posts/<ID_POST>
 ```
 
 #### POST : Create Post
 
 ```
-https://otoclix-challenge.herokuapp.com/posts
+https://otoklix-challenge.herokuapp.com/posts
 ```
 with data body
 ````
@@ -30,7 +30,7 @@ with data body
 #### PUT : Update Post
 
 ```sh
-https://otoclix-challenge.herokuapp.com/posts/<ID_POST>
+https://otoklix-challenge.herokuapp.com/posts/<ID_POST>
 ```
 with data body
 ````
@@ -43,5 +43,5 @@ with data body
 #### DEL : Delete Post
 
 ```sh
-https://otoclix-challenge.herokuapp.com/posts/<ID_POST>
+https://otoklix-challenge.herokuapp.com/posts/<ID_POST>
 ```
